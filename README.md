@@ -3,7 +3,8 @@
 Olá! Eu sou um estudante de Análise e Desenvolvimento de Sistemas na Estácio, com interesse em programação e desenvolvimento de software.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olordecoelho&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
 
 
 ## Projetos
