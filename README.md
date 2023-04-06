@@ -4,12 +4,6 @@ Olá! Eu sou um estudante de Análise e Desenvolvimento de Sistemas na Estácio,
 
 
 
-## Projetos
-
-Confira alguns dos meus projetos no meu repositório do Github:
-
-
-
 ## Contato
 
 - Telefone: (66) 98416 2808
