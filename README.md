@@ -1,8 +1,6 @@
-### Hi there 👋, Daniel Coelho
-#### I am a Developer and a Bugbuilder
 ![I am a Developer and a Bugbuilder](https://i.ibb.co/HCDgYYn/wellcome.png)
 
-Hi! Allow me to introduce myself. I'm Daniel Coelho, and I'm a Junior web Developer. I'm flexible and I learn anything quickly, with a certain dose of coffee.
+##Hi! Allow me to introduce myself. I'm Daniel Coelho, and I'm a Junior web Developer. I'm flexible and I learn anything quickly, with a certain dose of coffee.
 
 Skills: GIT, Python, Docker, Javascript, Nodejs, SQL, Linux.
 
