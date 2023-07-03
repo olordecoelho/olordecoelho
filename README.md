@@ -12,6 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olordecoelho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/olordecoelho)  
 
 ![Profile views](https://gpvc.arturio.dev/olordecoelho)  
