@@ -1,5 +1,5 @@
 
-## Hi! Allow me to introduce myself. I'm Daniel Coelho, and I'm a Junior web Developer. I'm flexible and I learn anything quickly, with a certain dose of coffee.
+## Hi! Allow me to introduce myself. I'm Daniel Coelho, and I'm a web Developer. I'm flexible and I learn anything quickly, with a certain dose of coffee.
 
 ## Skills:
 
