@@ -1,6 +1,5 @@
 
-## Hi! I'm the Daniel Coelho, and I'm a web Developer. I'm flexible and I learn anything quickly, with a certain dose of coffee.
-
+## Hi! I'm the Daniel Coelho, and I'm a Fullstack Developer.
 ### GIT, Python, Docker, Javascript, Nodejs, SQL, Linux.
 
 
