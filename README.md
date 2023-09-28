@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world!👋 I'm Daniel</h1>
-<h3 align="center">A Front-end developer passionate about programming, technology, innovation, design, computer forensics and pop culture.</h3><br/>
+<h3 align="center">A Fullstack developer passionate about programming, technology, innovation, design, computer forensics and pop culture.</h3><br/>
 
 - 🌱 I’m currently learning **C# and DotNet Framework**
 
